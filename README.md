@@ -3,7 +3,7 @@
 - CryptodevsDAO dApp built with Next, ethers, web3modal, Solidity, & Hardhat
 - DAO for CryptoDevs NFT Token Holder with Create,Vote & Execute Proposal.
 
-# This is a training by creating a ICO dApp to finish learnweb3 course for sophomore track
+# This is a training by creating a DAO dApp to finish learnweb3 course for sophomore track
 
 https://cryptodevs-dao-silk.vercel.app/
 
